@@ -24,7 +24,7 @@ function HowWeWork() {
                         <p className='text-[30px]'>01.</p>
                     </div>
                     <div className='pb-3 px-5'>
-                        <p className='text-[23px]'>Define Your Goals</p>
+                        <p className='text-[23px]'>Define Your Goal</p>
                     </div>
                     <div>
                         <Image className='ms-auto' src='/img/home/work1.png' alt='' width={400} height={250} />
